@@ -480,17 +480,4 @@ Built with:
 - [Apache Tika](https://tika.apache.org) - Document processing
 - [rclone](https://rclone.org) - Cloud storage integration for backups
 
----
 
-## Author
-
-**Francesco Marchetti** - Creator & Lead Developer
-
-- LinkedIn: [francesco-marchetti](https://www.linkedin.com/in/francesco-marchetti-4a7b8149/)
-- Company: [I3K Technologies](https://www.i3k.eu)
-- Email: info@i3k.eu
-- Phone: +39 02 99914444 | +39 338 7913579
-
----
-
-**Made with ❤️ by [I3K Technologies](https://www.i3k.eu) for privacy-conscious enterprises**
